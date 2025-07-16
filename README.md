@@ -16,8 +16,10 @@ Manufacturing, Education and Technology shows highest risk for AI-driven roles|
 With increase in AI automation, in various sectors, a decline in job growth is also observed.
 
 #Visuals:
-AI job distribution across industries(Chart.png)
-Dashboard(dashboard.png)
+AI job distribution across industries(images/AI job distribution across industries.png)|
+Salary trend and forecast (images/AI salary trend and forcast.png)
+Dashboard(images/dashboard.png)
+Job growth visual(images/Job growth projection.png)
 
 #Data source:
 The dataset used for this project was obtained from **Kaggle**:

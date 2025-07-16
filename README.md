@@ -13,7 +13,7 @@ Excel (Initial data cleaning)
 #Key Insights: 
 Increasing demand for "AI Automation" and upskilling in all domains| 
 Manufacturing, Education and Technology shows highest risk for AI-driven roles|
-With increse in AI automation, in various sectors, a decline in job growth is also observed.
+With increase in AI automation, in various sectors, a decline in job growth is also observed.
 
 #Visuals:
 AI job distribution across industries(Chart.png)

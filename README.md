@@ -17,13 +17,13 @@ With increase in AI automation, in various sectors, a decline in job growth is a
 
 #Visuals:
 AI job distribution across industries(images/AI job distribution across industries.png)|
-Salary trend and forecast (images/AI salary trend and forcast.png)
-Dashboard(images/dashboard.png)
+Salary trend and forecast (images/AI salary trend and forcast.png)|
+Dashboard(images/dashboard.png)|
 Job growth visual(images/Job growth projection.png)
 
 #Data source:
-The dataset used for this project was obtained from **Kaggle**:
-Title: AI-Powered Job Market Insights (https://www.kaggle.com/datasets/uom190346a/ai-powered-job-market-insights)
+The dataset used for this project was obtained from **Kaggle**-|
+Title: AI-Powered Job Market Insights (https://www.kaggle.com/datasets/uom190346a/ai-powered-job-market-insights)|
 Source: Kaggle, contributed by 'Laksika'
 
 #Folder structure: 

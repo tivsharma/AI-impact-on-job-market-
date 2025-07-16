@@ -26,11 +26,11 @@ Source: Kaggle, contributed by 'Laksika'
 
 #Folder structure 
 AI impact on job market 
-|----data/
-|----notebooks/
-|----images/
-|----scripts/
-|----README.MD
+|data/
+notebooks/
+images/
+scripts/
+README.MD|
 
 #Author 
 Tivsha Sharma 

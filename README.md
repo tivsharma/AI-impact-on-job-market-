@@ -19,13 +19,13 @@ Analyze the impact of AI-driven automation on job trends across industries.
 
 #Visuals
 - *AI job distribution across industries*
-  ![AI job distribution across industries](images/AI job distribution across industries.png)
+  ![AI job distribution across industries](images/Job.png)
 - *Salary trend and forecast*
-  ![Salary trend and forecast](images/AI salary trend and frocast.png)
+  ![Salary trend and forecast](images/Salary_trend.png)
 - *Dashboard*
-  ![Dashboard](images/dashboard.png)
+  ![Dashboard](images/Dashboard.png)
 - *Job growth projection*
-  ![Job growth projection](images/Job growth projection.png)
+  ![Job growth projection](images/Job_Growth.png)
 
 #Data source:
 The dataset used for this project was obtained from **Kaggle**-|

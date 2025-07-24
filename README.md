@@ -40,6 +40,6 @@ images/
 scripts/
 README.MD|
 
-#Author 
-Tivsha Sharma 
+#Author|
+Tivsha Sharma| 
 ativshav25@gmail.com 

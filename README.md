@@ -25,7 +25,7 @@ This end-to-end analytics project investigates the impact of Artificial Intellig
 - **Salary Trend & Machine Learning Forecast:** A predictive chart modeling salary shifts across automation-heavy sectors.
   ![Salary trend and forecast](images/Salary_trend.png)
 - **Dashboard**
-  *Dashboard*images/Dashboard .png
+  ![Dashboard](images/Dashboard.png)
 - **Job Growth Projections:** A forward-looking visual illustrating job creation vs. displacement velocity.
   ![Job growth projection](images/Job_Growth.png)
 
